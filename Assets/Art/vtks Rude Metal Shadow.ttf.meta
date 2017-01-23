@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: da4b3ce18e9e85e4bbf928f66cbeff1e
+timeCreated: 1485095967
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: vtks Rude Metal shadow
+  fontNames:
+  - vtks Rude Metal shadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

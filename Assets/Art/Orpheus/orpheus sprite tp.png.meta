@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 17456e51c5005244783eaf91f2901a99
+timeCreated: 1485048473
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orpheus sprite tp_0
+    21300002: orpheus sprite tp_1
+    21300004: orpheus sprite tp_2
+    21300006: orpheus sprite tp_3
+    21300008: orpheus sprite tp_4
+    21300010: orpheus sprite tp_5
+    21300012: orpheus sprite tp_6
+    21300014: orpheus sprite tp_7
+    21300016: orpheus sprite tp_8
+    21300018: orpheus sprite tp_9
+    21300020: orpheus sprite tp_10
+    21300022: orpheus sprite tp_11
+    21300024: orpheus sprite tp_12
+    21300026: orpheus sprite tp_13
+    21300028: orpheus sprite tp_14
+    21300030: orpheus sprite tp_15
+    21300032: orpheus sprite tp_16
+    21300034: orpheus sprite tp_17
+    21300036: orpheus sprite tp_18
+    21300038: orpheus sprite tp_19
+    21300040: orpheus sprite tp_20
+    21300042: orpheus sprite tp_21
+    21300044: orpheus sprite tp_22
+    21300046: orpheus sprite tp_23
+    21300048: orpheus sprite tp_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orpheus sprite tp_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1612
+        width: 534
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orpheus sprite tp_1
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1619
+        width: 511
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orpheus sprite tp_4
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1612
+        width: 408
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orpheus sprite tp_7
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1612
+        width: 408
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orpheus sprite tp_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 880
+        width: 534
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orpheus sprite tp_11
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 864
+        width: 512
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orpheus sprite tp_15
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 870
+        width: 409
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orpheus sprite tp_16
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 870
+        width: 408
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orpheus sprite tp_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 534
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orpheus sprite tp_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 143
+        width: 512
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orpheus sprite tp_23
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 149
+        width: 409
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orpheus sprite tp_24
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 149
+        width: 408
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
